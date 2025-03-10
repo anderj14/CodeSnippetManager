@@ -1,0 +1,7 @@
+[
+  {
+    "Title": "breaer",
+    "Language": "ts",
+    "Code": "axios.interceptors.request.use((config) => {\n  const token = store.getState().account.user?.token;\n  if (token) config.headers.Authorization = `Bearer ${token}`;\n  return config;\n});\n"
+  }
+]
