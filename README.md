@@ -20,4 +20,4 @@ Una aplicación de consola en C# diseñada para almacenar, organizar y acceder f
 1. **Clonar el Repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/code-snippet-manager.git
+   git clone https://github.com/anderj14/CodeSnippetManager.git
